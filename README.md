@@ -3,5 +3,7 @@
 ### Goodbye_World
 An attempt to create my very first repository Hello World :)
 
-*Mitta here. 
+* Ordered list
+* Mitta here
+* Mitta there
 Fun to learn online ...on your free time :)
